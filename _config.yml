@@ -1,0 +1,8 @@
+title: Watermark
+description: Add watermark on images.
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-slate
+
+gems:
+  - jekyll-mentions
